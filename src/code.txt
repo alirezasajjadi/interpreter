@@ -1,0 +1,16 @@
+int x = 5
+int number = 1
+int t
+int sum
+%%
+t = x
+print t
+for 3
+print x
+x = x + 1
+for 2
+number = number + 1
+print number
+end for
+print x
+end for
