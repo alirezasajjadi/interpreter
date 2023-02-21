@@ -16,7 +16,7 @@ and we have these operation:
 
 ## Sample
 Here is a sample code to run:
-- <a href="url">https://github.com/alirezasajjadi/interpreter/blob/main/src/code.txt</a>
+- <a href="https://github.com/alirezasajjadi/interpreter/blob/main/src/code.txt">code.txt</a>
 
 ## Usage
-The program runs codes in <a href="url">https://github.com/alirezasajjadi/interpreter/blob/main/src/code.txt</a>. So if you want to run your custom code please change this file.
+The program runs codes in <a href="https://github.com/alirezasajjadi/interpreter/blob/main/src/code.txt">code.txt</a>. So if you want to run your custom code please change this file.
